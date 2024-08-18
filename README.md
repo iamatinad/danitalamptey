@@ -10,7 +10,7 @@ I'm a finance and tech enthusiast. I love learning new things and speaking other
 * 📊 Excel , SQL , Tableau
 
 ## Example of Project
-<img src="https://github.com/iamatinad/danitalamptey/blob/main/ablog.gif" width="512" >
+<img src="https://github.com/iamatinad/danitalamptey/blob/main/atiblog.gif" width="512" >
 
 
 
