@@ -5,7 +5,7 @@
 
 Finance and tech enthusiast. I love learning new things and speaking other languages. 
 
-Skills:  JS / REACT / JS / HTML / CSS
+Skills:   REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on projects to enrich my skills.
 - ⚡ Fun fact: I speak French 
