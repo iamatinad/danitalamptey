@@ -1,11 +1,16 @@
-
-### Hola 👋, I'm Danita Lamptey
-#### Front-End Developer
 ![Front-end Developer](https://github.com/iamatinad/danitalamptey/blob/main/banner-ati.jpg)
 
-Finance and tech enthusiast. I love learning new things and speaking other languages. 
+# Danita Lampteyc
+I'm a finance and tech enthusiast. I love learning new things and speaking other languages. 
 
-Skills:   REACT / JS / HTML / CSS
+## Skills and Experience
+⚛ React
+💻 HTML, CSS, JS
+📊 Excel , SQL , Tableau
+
+
+
+
 
 - 🔭 I’m currently working on projects to enrich my skills.
 - ⚡ Fun fact: I speak French 
