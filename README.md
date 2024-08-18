@@ -8,11 +8,12 @@ I'm Danita with a passion for finance and technology. I love to code, learn new 
 #### Front-end Developer
 ![Front-end Developer](https://pbs.twimg.com/profile_banners/1311515760477573121/1723990170/600x200)
 
-I'm a finance and tech enthusiast. I love learning new things and speaking other languages. 
+A finance and tech enthusiast. I love learning new things and speaking other languages. 
 
 Skills:  JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on projects to enrich my skills.
+- - ⚡ Fun fact: I speak French 
 
 
 
