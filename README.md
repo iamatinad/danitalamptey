@@ -10,7 +10,7 @@ I'm a finance and tech enthusiast. I love learning new things and speaking other
 
 
 #Project Example
-<img src="" width="256">
+<img src="https://github.com/iamatinad/danitalamptey/blob/main/ablog.gif" width="256">
 
 
 
