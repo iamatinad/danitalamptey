@@ -4,7 +4,7 @@ I'm Danita with a passion for finance and technology. I love to code, learn new 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamatinad&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-### Hi there 👋, Danita Lamptey
+### Hola 👋, I'm Danita Lamptey
 #### Front-end Developer
 ![Front-end Developer](https://pbs.twimg.com/profile_banners/1311515760477573121/1723990170/600x200)
 
