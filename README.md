@@ -1,7 +1,7 @@
 
 ### Hola 👋, I'm Danita Lamptey
 #### Front-end Developer
-![Front-end Developer](https://pbs.twimg.com/profile_banners/1311515760477573121/1723990170/600x200)
+![Front-end Developer](https://github.com/iamatinad/danitalamptey/blob/main/banner-ati.jpg)
 
 A finance and tech enthusiast. I love learning new things and speaking other languages. 
 
