@@ -1,6 +1,6 @@
 
 ### Hola 👋, I'm Danita Lamptey
-#### Front-end Developer
+#### Front-End Developer
 ![Front-end Developer](https://github.com/iamatinad/danitalamptey/blob/main/banner-ati.jpg)
 
 A finance and tech enthusiast. I love learning new things and speaking other languages. 
