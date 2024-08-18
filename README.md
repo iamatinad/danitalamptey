@@ -6,7 +6,7 @@ I'm Danita with a passion for finance and technology. I love to code, learn new 
 
 ### Hi there 👋, Danita Lamptey
 #### Front-end Developer
-![Front-end Developer](https://pbs.twimg.com/profile_banners/1311515760477573121/1723988511/600x200)
+![Front-end Developer](https://www.canva.com/design/DAGONV1KdPQ/5pnpiisM2QKQ9kl1SxmGgw/edit?utm_content=DAGONV1KdPQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 I'm a finance and tech enthusiast. I love learning new things and speaking other languages. 
 
