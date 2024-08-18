@@ -13,7 +13,7 @@ A finance and tech enthusiast. I love learning new things and speaking other lan
 Skills:  JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on projects to enrich my skills.
-- - ⚡ Fun fact: I speak French 
+- ⚡ Fun fact: I speak French 
 
 
 
