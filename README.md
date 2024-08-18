@@ -21,7 +21,7 @@ Finance and tech enthusiast with a passion for learning and speaking multiple la
 
 
 ## Connect with Me
-<p align="center">
+
   <a href="https://github.com/iamatinad">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40" style="filter: invert(1);">
   </a>
@@ -31,8 +31,8 @@ Finance and tech enthusiast with a passion for learning and speaking multiple la
   <a href="https://portfolio-danitalamptey.vercel.app/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="Website" height="40" style="filter: invert(1);">
   </a>
-</p>
 
-<p align="center">
-  ⚡ Fun fact: I speak French!
-</p>
+
+
+  ⚡ Fun fact: I speak Français!
+
