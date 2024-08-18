@@ -9,16 +9,16 @@ Finance and tech enthusiast with a passion for learning and speaking multiple la
 - 📊 **Excel, SQL, Tableau**
 
 ## Project Showcase
-<p align="center">
+
   <img src="https://github.com/iamatinad/danitalamptey/blob/main/atiblog.gif" width="512" alt="Project GIF">
-</p>
+
 
 ## GitHub Stats
-<p align="center">
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamatinad&theme=dark" alt="Top Languages">
   </a>
-</p>
+
 
 ## Connect with Me
 <p align="center">
